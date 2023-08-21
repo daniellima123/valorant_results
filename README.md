@@ -1,2 +1,12 @@
 # valorant_results
-Create a model that is able to predict the winner of a match based on results, players average and other relevant stats.
+
+## Summary
+
+The project is divided in:
+
+1- Data Scrapping
+
+
+## Data Scrapping
+
+We will be scrapping data from the ![vlr.gg] website using the unofficial !(api)[http://https://vlrggapi.vercel.app/] created by !(Rehkloos)[https://github.com/Rehkloos].
